@@ -1,4 +1,5 @@
 # nameright
+Pronounciation of Names using the Google Translate API
 
 Designed for use on TamperMonkey through Google Chrome
 
